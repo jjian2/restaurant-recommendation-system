@@ -20,4 +20,7 @@
 - Spring Boot와 FastAPI 통합 경험  
 
 ## 📸 화면 예시
-(스크린샷 추가)
+<img width="271" height="145" alt="image" src="https://github.com/user-attachments/assets/d41ea725-5042-4a99-9d16-29deade4f4fd" />
+<img width="278" height="156" alt="image" src="https://github.com/user-attachments/assets/e19f56ea-31b2-4109-b1d4-af8395d9c8f4" />
+<img width="141" height="85" alt="image" src="https://github.com/user-attachments/assets/a847fd9d-39db-4c7e-905c-500787bf286e" />
+<img width="195" height="100" alt="image" src="https://github.com/user-attachments/assets/c876eea5-a1fa-4e22-b266-7f90b0c3c65f" />
